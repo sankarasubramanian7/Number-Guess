@@ -39,4 +39,4 @@ To play the game locally, follow these steps:
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/guess-the-number-game.git
+   git clone https://github.com/sankarasubramanian7/Number-Guess.git
